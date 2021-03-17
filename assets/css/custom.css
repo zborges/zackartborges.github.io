@@ -1,6 +1,9 @@
 h2 {
   font-family: "Rajdhani", sans-serif im !important;
 }
+.tiny_font {
+  font-size: 10px;
+}
 .skills_section {
   background-color: #f2edd7 !important;
 }
