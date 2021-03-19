@@ -20,3 +20,7 @@ h2 {
 ._spotlight {
   background-color: #a1cae2 !important;
 }
+.form {
+  width: 70% !important;
+  text-align: center;
+}
