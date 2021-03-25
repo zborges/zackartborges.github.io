@@ -20,7 +20,25 @@ h2 {
 ._spotlight {
   background-color: #a1cae2 !important;
 }
-.form {
+/* .form {
   width: 70% !important;
-  text-align: center;
+  text-align: center; */
 }
+._actions {
+  /* margin: auto !important; */
+  /* text-align: center !important; */
+  margin-top: 2em;
+}
+/* ._submit {
+ text-align: center;
+  margin-left: 500px;
+  margin-top: 0.5rem;
+  display: grid;
+}
+.submit_container {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center; !important;
+} */
