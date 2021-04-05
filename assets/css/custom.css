@@ -30,3 +30,10 @@ h2 {
 .submit_button {
   margin-top: 2rem;
 }
+.copyright_parent {
+  display: flex !important;
+  justify-content: center;
+}
+.my_name {
+  margin-top: 1rem;
+}
