@@ -51,3 +51,9 @@ h2 {
   -webkit-transform: translate(0px, 0px);
   transform: translate(0px, 0px);
 }
+
+#top_header {
+  position: absolute;
+  left: 50rem;
+  text-align: left;
+}
